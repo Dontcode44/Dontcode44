@@ -39,3 +39,7 @@
 
 ---
 [![GitHub Streak](https://streak-stats.demolab.com?user=Dontcode44&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+---
+
+## Snake
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
